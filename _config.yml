@@ -1,0 +1,14 @@
+layout_spectrum: 0.43331237439997494
+typography_spectrum: 0.5839444191660732
+color:
+  brandStrength: 0.5321396787185222
+  lightness: 0.5548729866277426
+  saturation: 0.46341317030601203
+  rhythmicContrast: 0.42456140276044607
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Make Place
